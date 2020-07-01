@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AppLoad</string>
+    <string name="text_1">Для получения алгоритма переноса плит, введите количество плит, которое необходимо перенести и нажмите кнопку Ввод</string>
+    <string name="text_2">Ввод</string>
+    <string name="text_3">число</string>
+    <string name="number">number</string>
+    <string name="text">text</string>
+    <string name="text_5">Алгоритм переноса груза</string>
+    <string name="text_6">slot_a - разгружаемый автомобиль</string>
+    <string name="text_7">slot_c - пустой автомобиль</string>
+    <string name="text_8">slot_b - дополнительное место для промежуточного хранения плит</string>
+</resources>
